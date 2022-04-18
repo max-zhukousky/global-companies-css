@@ -1,1 +1,1 @@
-# global-companies-css
+Beautifully made based on this Figma project: https://www.figma.com/file/dxwwKbaImCCtzutqZeMrLQ/Shared-Project-Template?node-id=0%3A1
